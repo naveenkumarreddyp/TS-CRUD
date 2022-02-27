@@ -1,0 +1,1 @@
+"npm install --save-dev ts-node @types/express @types/node"  for dev dependencies
